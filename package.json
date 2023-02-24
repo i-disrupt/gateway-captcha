@@ -1,7 +1,7 @@
 {
-  "name": "discord.js-captcha",
+  "name": "visepoint-gateway-captcha",
   "version": "3.0.4",
-  "description": "A powerful package for Discord.js v14 that allows you to easily create CAPTCHAs for Discord Servers.",
+  "description": "Based off of discord.js-captcha.",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
